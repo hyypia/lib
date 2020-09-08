@@ -13,4 +13,6 @@ $('div').click(function() {
 
 // console.log($('.some').closest('.findmeq').addClass('hgf'));
 
-console.log($('.more').eq(0).sibling());
+// console.log($('.more').eq(0).sibling());
+
+$('button').fadeOut(1500);
